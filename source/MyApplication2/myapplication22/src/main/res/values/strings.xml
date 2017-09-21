@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Facebook_app_id">140599149883984</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
